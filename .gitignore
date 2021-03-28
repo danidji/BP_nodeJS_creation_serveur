@@ -1,0 +1,5 @@
+# Exclude npm/yarn package folders
+node_modules/
+
+# Exclude package manager files files
+package-lock.json
